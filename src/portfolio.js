@@ -2,7 +2,7 @@
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  title: "Hi all 👋 I'm Saad",
+  title: "Hi all 👋 I'm Michael",
   subTitle:
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks",
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
@@ -90,8 +90,8 @@ const openSource = {
   /* Your Open Source Section to View Your Github Pinned Projects */
   /* To know how to get github key look at readme.md */
 
-  githubConvertedToken: "Your Github Converted Token",
-  githubUserName: "Your Github Username"
+  githubConvertedToken: "MzIzYTlmOTYzMzcyZjcwNzgzOTc4ZWRkYTZjMDYyNGQ2NDZhZmFlOQ==",
+  githubUserName: "mikeyuchima"
 };
 
 const bigProjects = {
